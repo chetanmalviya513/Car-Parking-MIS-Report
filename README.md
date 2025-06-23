@@ -1,10 +1,10 @@
-🚗 Car Parking MIS Data Analysis Dashboard
+# Car Parking MIS Data Analysis Dashboard
 This project presents a Car Parking Management Information System (MIS) built using SQL for data handling and Tableau for real-time visualization. The goal is to streamline vehicle tracking, analyze parking trends, and provide actionable insights through interactive dashboards.
 
-📌 Project Overview
+# Project Overview
 Objective: To analyze and visualize parking lot operations and performance using MIS data.
 
-Tools Used:
+# Tools Used:
 
 SQL – For structured data querying and management
 
@@ -12,7 +12,7 @@ Excel – For exporting and transforming datasets
 
 Tableau – For building live dashboards with rich visual analytics
 
-🧩 Key Features
+# Key Features
 🚙 Vehicle In-Out Tracking: Monitor entry and exit times for all parked vehicles
 
 💰 Revenue Trend Analysis: Understand revenue generation by vehicle type and time slot
@@ -25,7 +25,9 @@ Tableau – For building live dashboards with rich visual analytics
 
 📤 Excel Export: Processed data is exported into Excel for Tableau ingestion
 
-📈 Live Dashboard Highlights (Tableau)
+# Live Dashboard Highlights:
+https://public.tableau.com/views/CarParkingReport/Dashboard4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 Dynamic filters for time, vehicle type, and location
 
 KPI cards: Total Revenue, Vehicles Parked, Avg. Duration
@@ -34,7 +36,7 @@ Heatmaps showing traffic intensity
 
 Trendlines for daily/weekly traffic and earnings
 
-✅ Outcomes
+# Outcomes
 Improved decision-making for parking space allocation
 
 Enhanced monitoring of operational efficiency
