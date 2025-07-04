@@ -1,4 +1,4 @@
-# Car Parking MIS Data Analysis Dashboard
+# Car Parking MIS Data Analysis Dashboard using Tableau
 This project presents a Car Parking Management Information System (MIS) built using SQL for data handling and Tableau for real-time visualization. The goal is to streamline vehicle tracking, analyze parking trends, and provide actionable insights through interactive dashboards.
 
 # Project Overview
